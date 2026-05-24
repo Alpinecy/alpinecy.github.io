@@ -1,0 +1,57 @@
+body {
+  display: flex;
+  justify-content: center; 
+  align-items: center;     
+  height: 100vh;          
+  margin: 0;
+}
+
+.m {
+  margin-left: 20px;
+width: 1000px;
+border-radius: 10px;
+}
+.ce-t { 
+text-align:center; 
+}
+.bg-b {
+  background-color: #012936;
+}
+.c-b-t {
+  color: #029dcc;
+}
+.bg-b-m {
+  background-color: #00232e;
+}
+.s-f {
+    font-family: "Source Code Pro", monospace;
+}
+a {
+    color: #029dcc;
+}
+.le-t {
+  text-align: left;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+.f-e {
+  width: 32px;
+  height: 32px;
+}
+.e {
+  font-family: "Noto Color Emoji", sans-serif;
+}
+.c-fa {
+  color: #42daf5;
+}
+hr.last {
+  border-top: 1px solid #029dcc;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+.l-d {
+  font-size: 12px;
+  text-align: center;
+  color: #4d4d4d;
+}
